@@ -1,0 +1,40 @@
+
+.navbar {
+    background-color:#6B0889;
+}
+
+.quem-somos {
+    background-color: #5acf74;
+    color: white;
+}
+
+.margin {
+    padding-top: 90x;
+    padding-bottom: 20px;
+}
+
+.img-text h3 {
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.img-text p {
+    font-size: 18px;
+}
+
+.single-box {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+
+.nosso-projeto {
+    background-color: rgb(187, 228, 215);
+}
+.tecnologias {
+    background-color: rgb(187, 228, 215);
+}
+
+.etapas-projeto {
+    background-color: rgb(187, 228, 215);
+}
